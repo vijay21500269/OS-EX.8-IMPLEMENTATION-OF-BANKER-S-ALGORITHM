@@ -80,7 +80,7 @@ print(" P", ans[n - 1], sep="")
 
 ```
 ## OUTPUT:
-![](1.png)
+![](https://github.com/manojvenaram/OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM/raw/main/1.png)
 ## RESULT:
 Thus the program for the bankers algorithm is implemented successfully.
  
